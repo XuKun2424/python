@@ -1,4 +1,4 @@
-# using of re
+import re
 # 贪婪，零宽断言，转义特殊字符
 s='11(123)44455()2121asd <=e1.0 >=0.8 aaffaa'
 print(re.findall(r'\(.*?\)',s))         # 转义特殊字符
