@@ -18,3 +18,6 @@ pyspark开头的不需要
 
  @徐昆 哥，帮忙看看这个，需要从py3.6升级到py3.10,主要处理一下这个目录里头的算法是否能兼容：
 https://github.com/TencentBlueKing/bk-base/tree/master/src/aiops/backend/scene/scene/algorithm
+
+@徐昆 看看这个能不能访问？
+https://git.tencent.com/bk-aiops-group/bk-aiops/tree/stag/scene
